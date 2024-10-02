@@ -35,20 +35,6 @@ cd Running-YOLO
 python yolo_basics.py
 ```
 
-## Files
-
-1. Running-YOLO
-    - check-gpu.py
-    - yolo_basics.py
-    - yolo.py
-    - yolo_utils.py
-    - yolo_v3.weights
-    - coco.names
-
-2. Object-Detection
-
-
-
 ## Libraries Used
 - torch
 - torchvision
